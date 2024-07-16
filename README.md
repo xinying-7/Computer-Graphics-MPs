@@ -5,7 +5,7 @@ Now, for example, if the file is named myfile.html, in your browser go to one of
 3.http://[::1]:8000/myfile.html
 
 The completed MPs by the author are:
-mp2-motion.html
-mp3.html
-mp4.html
+mp2-motion.html,
+mp3.html,
+mp4.html,
 burst.html
